@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Read3DXml", "Read3DXml\Read3DXml.csproj", "{0473AC7D-F1D0-482C-AFE3-24C5D48C581A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DXmlparse", "3DXmlparser\3DXmlparse.csproj", "{0F9620DA-4A39-4632-BDF3-F16872AD9832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteToGLtf", "WriteToGLtf\WriteToGLtf.csproj", "{54A7C676-E67B-457A-8BA5-2E5DA10CD032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0473AC7D-F1D0-482C-AFE3-24C5D48C581A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0473AC7D-F1D0-482C-AFE3-24C5D48C581A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0473AC7D-F1D0-482C-AFE3-24C5D48C581A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0473AC7D-F1D0-482C-AFE3-24C5D48C581A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9620DA-4A39-4632-BDF3-F16872AD9832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9620DA-4A39-4632-BDF3-F16872AD9832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9620DA-4A39-4632-BDF3-F16872AD9832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9620DA-4A39-4632-BDF3-F16872AD9832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A7C676-E67B-457A-8BA5-2E5DA10CD032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A7C676-E67B-457A-8BA5-2E5DA10CD032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A7C676-E67B-457A-8BA5-2E5DA10CD032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A7C676-E67B-457A-8BA5-2E5DA10CD032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FEE2E1F-8824-4B29-BB1E-AC2BCC6EE357}
+	EndGlobalSection
+EndGlobal

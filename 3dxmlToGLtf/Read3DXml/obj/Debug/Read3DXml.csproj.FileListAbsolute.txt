@@ -1,0 +1,36 @@
+C:\Users\SW\Desktop\soucecode\Read3DXml\Read3DXml\obj\Debug\Read3DXml.csprojAssemblyReference.cache
+C:\Users\SW\Desktop\soucecode\Read3DXml\Read3DXml\bin\Debug\Read3DXml.dll
+C:\Users\SW\Desktop\soucecode\Read3DXml\Read3DXml\bin\Debug\Read3DXml.pdb
+C:\Users\SW\Desktop\soucecode\Read3DXml\Read3DXml\bin\Debug\Net3DXmlReader.dll
+C:\Users\SW\Desktop\soucecode\Read3DXml\Read3DXml\bin\Debug\Net3DXmlReader.pdb
+C:\Users\SW\Desktop\soucecode\Read3DXml\Read3DXml\obj\Debug\Read3DXml.csproj.CopyComplete
+C:\Users\SW\Desktop\soucecode\Read3DXml\Read3DXml\obj\Debug\Read3DXml.dll
+C:\Users\SW\Desktop\soucecode\Read3DXml\Read3DXml\obj\Debug\Read3DXml.pdb
+D:\glTF\Read3DXml\Read3DXml\bin\Debug\Read3DXml.dll
+D:\glTF\Read3DXml\Read3DXml\bin\Debug\Read3DXml.pdb
+D:\glTF\Read3DXml\Read3DXml\bin\Debug\Net3DXmlReader.dll
+D:\glTF\Read3DXml\Read3DXml\bin\Debug\Net3DXmlReader.pdb
+D:\glTF\Read3DXml\Read3DXml\obj\Debug\Read3DXml.csprojResolveAssemblyReference.cache
+D:\glTF\Read3DXml\Read3DXml\obj\Debug\Read3DXml.dll
+D:\glTF\Read3DXml\Read3DXml\obj\Debug\Read3DXml.pdb
+D:\glTF\我的程序\Read3DXml\Read3DXml\bin\Debug\Read3DXml.dll
+D:\glTF\我的程序\Read3DXml\Read3DXml\bin\Debug\Read3DXml.pdb
+D:\glTF\我的程序\Read3DXml\Read3DXml\bin\Debug\Net3DXmlReader.dll
+D:\glTF\我的程序\Read3DXml\Read3DXml\bin\Debug\Net3DXmlReader.pdb
+D:\glTF\我的程序\Read3DXml\Read3DXml\obj\Debug\Read3DXml.csprojResolveAssemblyReference.cache
+D:\glTF\我的程序\Read3DXml\Read3DXml\obj\Debug\Read3DXml.dll
+D:\glTF\我的程序\Read3DXml\Read3DXml\obj\Debug\Read3DXml.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml\Read3DXml\bin\Debug\Read3DXml.dll
+D:\研究生研究方向\glTF\我的程序\Read3DXml\Read3DXml\bin\Debug\Read3DXml.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml\Read3DXml\bin\Debug\Net3DXmlReader.dll
+D:\研究生研究方向\glTF\我的程序\Read3DXml\Read3DXml\bin\Debug\Net3DXmlReader.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml\Read3DXml\obj\Debug\Read3DXml.csprojResolveAssemblyReference.cache
+D:\研究生研究方向\glTF\我的程序\Read3DXml\Read3DXml\obj\Debug\Read3DXml.dll
+D:\研究生研究方向\glTF\我的程序\Read3DXml\Read3DXml\obj\Debug\Read3DXml.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\Read3DXml\bin\Debug\Read3DXml.dll
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\Read3DXml\bin\Debug\Read3DXml.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\Read3DXml\bin\Debug\Net3DXmlReader.dll
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\Read3DXml\bin\Debug\Net3DXmlReader.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\Read3DXml\obj\Debug\Read3DXml.csprojResolveAssemblyReference.cache
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\Read3DXml\obj\Debug\Read3DXml.dll
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\Read3DXml\obj\Debug\Read3DXml.pdb

@@ -1,0 +1,15 @@
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\bin\Debug\test.exe.config
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\obj\Debug\test.exe
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\obj\Debug\test.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\bin\Debug\test.exe
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\bin\Debug\test.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\bin\Debug\Net3DXmlReader.dll
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\bin\Debug\Newtonsoft.Json.dll
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\bin\Debug\Read3DXml.dll
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\bin\Debug\Read3DXml.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\bin\Debug\Net3DXmlReader.pdb
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\bin\Debug\Newtonsoft.Json.xml
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\obj\Debug\WriteToGLtf.csprojResolveAssemblyReference.cache
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\obj\Debug\test.Form1.resources
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\obj\Debug\test.Properties.Resources.resources
+D:\研究生研究方向\glTF\我的程序\Read3DXml - 副本\WriteToGLtf\obj\Debug\WriteToGLtf.csproj.GenerateResource.Cache
